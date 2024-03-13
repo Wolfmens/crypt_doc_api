@@ -1,4 +1,4 @@
-package org.test;
+package org.project;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
